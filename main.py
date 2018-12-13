@@ -27,7 +27,7 @@ admissible_choices = ['X', 'O']
 
 print 'Welcome to this amazing implementation of the legendary game Tic-Tac-Toe!'
 
-print "Please type choose 1 for a multiplayer game, 2 for a match against an algorithm that only makes random moves."
+print "Please type 1 for a multiplayer game, 2 for a match against an algorithm that only makes random moves."
 
 
 def game_type():
