@@ -41,7 +41,7 @@ def game_type():
     else:
 
         print 'Invalid selection.'
-        print "Please type choose 1 for a multiplayer game, 2 for a match against an algorithm that only makes random moves."
+        print "Please type 1 for a multiplayer game, 2 for a match against an algorithm that only makes random moves."
 
         game_type()
 
